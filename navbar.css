@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    margin: auto;
+    text-align: center;
+    font-family: fantasy;
+    width: 100%;
+    font-size: 20px;
+}
+.nav ul{
+    background: #000000;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+    padding: 0 30px;
+}
+.nav ul li{
+    float: left;
+}
+.nav ul li:hover{
+    background: ##000000;
+    
+}
+.nav ul li:hover a{
+    color: white;
